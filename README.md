@@ -1,3 +1,4 @@
+
 OS: macOS 11.16.1
 CPU: intel i7 9750H
 RAM: 16G
@@ -14,4 +15,7 @@ HDMI external display can always be detected once plugged in, but sometimes the 
 Sometimes wake up from sleep will cause green screen and no responding, restart to solve.
 
 Everything else works fine as usual.
+Turn off Secure Boot before booting.
 Plug your USB installer and enjoy
+
+   
